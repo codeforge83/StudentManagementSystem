@@ -1,3 +1,9 @@
 Student ID	Name	Age	Course	Gender
 1	G.Rithvik	18	CSD	Male
 2	Sanjith Coder	19	CSD	Other
+3	Ashok	18	CSE	Male
+4	Bhanu	19	M.TECH	Male
+5	Jayanth	19	MECH	Male
+6	Adhvaith	19	EEE	Male
+7	Aditya	19	ECE	Male
+8	Nezuko	20	CSE	Female
